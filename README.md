@@ -35,9 +35,6 @@ predict_squealing(input_file='data/input.csv')
 
 
 ## Data Channels
-
-### Input Channels
-
 - `VitesseMoteur`: Rotational velocity of the disc (converted to Time Series).
 - `T_ON`: Contact duration (converted to Time Series).
 - `T_OFF`: Wait time between each contact (converted to Time Series).
@@ -45,9 +42,6 @@ predict_squealing(input_file='data/input.csv')
 - `FCT_BI_S`: Blade (pin's support) displacement (Foucault interior edge exit).
 - `FCT_BI_E`: Blade (pin's support) displacement (Foucault interior edge entry).
 - `FCT_BE_E`: Frontal force on the brake disc (converted to Time Series).
-  
-### Additional Channels
-
 - Various `TC_*` channels: Temperatures in pin 2mm under the surface in contact.
 - `DEP_D`: Normal displacement of the disc at a point.
 - `Couple_Smoothed`: Torque of the contact.
