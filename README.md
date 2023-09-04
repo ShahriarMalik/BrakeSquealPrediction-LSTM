@@ -15,13 +15,6 @@ This project aims to predict brake squealing events using Long Short-Term Memory
 
 ## Installation
 
-
-# Clone this repository
-git clone <repository_url>
-
-# Go into the repository
-cd <repository_name>
-
 # Install dependencies
 pip install -r requirements.txt
 
