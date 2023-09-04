@@ -28,10 +28,6 @@ predict_squealing(input_file='data/input.csv')
 
 
 ## Data Channels
-<<<<<<< HEAD:README.md
-=======
-
->>>>>>> 06b638d15cab09565d9542a225ca5bf0bde7c65d:README .md
 - `VitesseMoteur`: Rotational velocity of the disc (converted to Time Series).
 - `T_ON`: Contact duration (converted to Time Series).
 - `T_OFF`: Wait time between each contact (converted to Time Series).
