@@ -13,6 +13,12 @@ This project aims to predict brake squealing events using Long Short-Term Memory
 5. [Contributing](#Contributing)
 6. [License](#License)
 
+## Project Structure
+
+- `SquealPrediction_LSTM.ipynb`: The main Jupyter notebook containing the code and analysis.
+- `requirements.txt`: Lists all the Python dependencies for this project.
+- `plots/`: This folder contains all the plots generated during the analysis. Refer to this folder to see the graphical representations of our data.
+
 ## Installation
 
 # Install dependencies
